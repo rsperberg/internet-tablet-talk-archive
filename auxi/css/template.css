@@ -9,13 +9,16 @@
 }
 
 p strong em, strong em, strong i, b em, b i, i b, i strong, em b, em strong {
-	font-family: Share-BoldItalic;
+	font-family: Share-BoldItalic, Share;
+	font-weight: 700;
+	font-style: italic;
 	color: #f8f8f8;
 	background-color: #000000;
 }
 
 p strong {
 	font-family: Share-Bold;
+	font-weight: 700;
 	background-color: #da5826;
 	color: #f8f8f8;
 	padding: 2px 2px 3px 2px;
