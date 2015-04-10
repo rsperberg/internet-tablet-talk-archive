@@ -638,7 +638,7 @@ div#bottom {
 	font-family: Century Gothic, Helvetica, sans-serif;
 	display: block;
 	float: left;
-	padding: 5px 0 0 15px;
+/*	padding: 5px 0 0 15px;   */
 	vertical-align: middle;
 	font-weight: normal;
 	font-size: 90%;
