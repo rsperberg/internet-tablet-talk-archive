@@ -1,8 +1,8 @@
 /* name - style5
 	 description - rust
 	 ************************************************
-	 color1 - #59a2b2
-	 color2 - #da5826
+	 color1 - #59a2b2    a "dark moderate cyan"
+	 color2 - #da5826    a brick orange:
 	 color3 - #999
 	 ************************************************
 
@@ -31,7 +31,7 @@ a, h2, .contentheading, #maincol .moduletable h3, #bottom-modules h3, .moduletab
 }
 
 a img.album {
-	border-color: #ddd;   /*   #59a2b2;   */
+	border-color: #ddd;   /*  a "dark moderate cyan": ; #59a2b2;   */
 }
 
 .contentheading, .maincol .accent, #horiz-menu li.active span span.selector, a#active_menu, ul.menuside li.active a, a.readon,
@@ -42,15 +42,21 @@ div.moduletable-hilite1 a.readon, div.module-hilite1 a.readon, ul.arrow-1 li, ul
 
 /* color 2 */
 
-#maincol a, h1, #secondcol .moduletable h3,.moduletable-hilite3 h3, .moduletable-hilite6 h3, .module-hilite3 h3, .module-hilite6 h3, #logo-space span, #horiz-menu li:hover li:hover a:hover, #horiz-menu li.sfHover li.sfHover a:hover, ul.menuside a:hover, ul.menuside li.active li a:hover, a.mainlevel:hover, a.sublevel:hover {
-	color:  #f8f8f8; /* #f27435     orange:  #da5826 */
+#maincol a, h1, .moduletable-hilite3 h3, .moduletable-hilite6 h3, .module-hilite3 h3, .module-hilite6 h3, #logo-space span, #horiz-menu li:hover li:hover a:hover, #horiz-menu li.sfHover li.sfHover a:hover, ul.menuside a:hover, ul.menuside li.active li a:hover, a.mainlevel:hover, a.sublevel:hover {
+	color: #f8f8f8; /*    a darkish orange:; #f27435     a brick orange:  #da5826 */
 }
-/* roger mod */
-
+/* RogerS mod */
+#secondcol .moduletable h3 {
+	color: #f27435;
+}
 p a, span.categories-label { color: #da5826 !important; }
 
 .secondcol .accent, #horiz-menu li:hover span span.selector, #horiz-menu li.sfHover span span.selector, a.mainlevel:hover, ul.menuside a:hover, ul.menuside li.active li a:hover, ul.arrow-2 li, ul.triangle-2 li, ul.bullet-2 li, ul.bullet-6 li, ul.plus-2 li,.moduletable-hilite1 ul.arrow-2 li {
 	background-color: #da5826;
+}
+
+.rsswidget, .triangle-2 li a {
+	color: #59a2b2 !important;
 }
 
 /* color 3 */
