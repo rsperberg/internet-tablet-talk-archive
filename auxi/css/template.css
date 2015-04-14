@@ -111,7 +111,7 @@ div.mosimage_caption {
 	font-size: 190%;
 	font-weight: normal;
 	line-height: 32px;
-	background: url(../images/content-icon.png) 0 0 no-repeat;
+	background: url(../pix/standard/content-icon.png) 0 0 no-repeat;
 	padding-left: 28px;
 	padding-bottom: 10px;
 	padding-top: 10px;
@@ -177,7 +177,7 @@ tr.sectiontableentry2 td {
 
 #header {
 	height: 83px;
-	background: url(../images/header-bg.png) 0 0 repeat;
+	background: url(../pix/standard/header-bg.png) 0 0 repeat;
 }
 
 #overall-frame {
@@ -206,19 +206,19 @@ tr.sectiontableentry2 td {
 }
 
 #bg-top-overlay {
-	background: url(../images/top-bg-overlay.png) 0 0 repeat-x;
+	background: url(../pix/standard/top-bg-overlay.png) 0 0 repeat-x;
 }
 
 #bg-bottom-overlay {
-	background: url(../images/bottom-bg-overlay.png) 0 100% repeat-x;
+	background: url(../pix/standard/bottom-bg-overlay.png) 0 100% repeat-x;
 }
 
 #body-shadow-left {
-	background: url(../images/main-shadow-left.png) 0 0 no-repeat;
+	background: url(../pix/standard/main-shadow-left.png) 0 0 no-repeat;
 }
 
 #body-shadow-right {
-	background: url(../images/main-shadow-right.png) 100% 0 no-repeat;
+	background: url(../pix/standard/main-shadow-right.png) 100% 0 no-repeat;
 }
 
 #body {
@@ -231,7 +231,7 @@ table.mainbody {
 	width: 100%;
 	margin: 0;
 	padding: 0;
-	background: #121212 url(../images/body-bg.png) 0 0 repeat-x;
+	background: #121212 url(../pix/standard/body-bg.png) 0 0 repeat-x;
 }
 
 td.maincol,
@@ -240,7 +240,7 @@ td.thirdcol {
     margin: 0;
     width: auto;
 		padding: 0;
-    background: url(../images/column-shadow.png) 0 0 repeat-y;
+    background: url(../pix/standard/column-shadow.png) 0 0 repeat-y;
 }
 
 table.mainbody .padding {
@@ -257,22 +257,22 @@ table.mainbody .padding {
 	float: right;
 	width: 60px;
 	height: 1px;
-	background: url(../images/accent-top-right.png) 100% 0 no-repeat;
+	background: url(../pix/standard/accent-top-right.png) 100% 0 no-repeat;
 }
 
 .accent .accent-left  {
 	float: left;
 	width: 60px;
 	height: 1px;
-	background: url(../images/accent-top-left.png) 0 0 no-repeat;
+	background: url(../pix/standard/accent-top-left.png) 0 0 no-repeat;
 }
 
 .bottom .accent .accent-right  {
-	background: url(../images/accent-bottom-right.png) 100% 0 no-repeat;
+	background: url(../pix/standard/accent-bottom-right.png) 100% 0 no-repeat;
 }
 
 .bottom .accent .accent-left {
-	background: url(../images/accent-bottom-left.png) 0 0 no-repeat;
+	background: url(../pix/standard/accent-bottom-left.png) 0 0 no-repeat;
 }
 
 .maincol .accent {
@@ -336,7 +336,7 @@ td.maincol.bottom {
 img#rocket {
 	width: 148px;
 	height: 35px;
-	background: url(../images/rocket.png) 0 0 no-repeat;
+	background: url(../pix/standard/rocket.png) 0 0 no-repeat;
 }
 
 #footer-shadow {
@@ -399,7 +399,7 @@ img#rocket {
 	left: 0;
 	height: 57px;
 	width: 134px;
-	background: url(../images/column-shadow-left.png) 0 0 no-repeat;
+	background: url(../pix/standard/column-shadow-left.png) 0 0 no-repeat;
 }
 
 .shadow-2 {
@@ -408,7 +408,7 @@ img#rocket {
 	right: 0;
 	height: 57px;
 	width: 134px;
-	background: url(../images/column-shadow-right.png) 100% 0 no-repeat;
+	background: url(../pix/standard/column-shadow-right.png) 100% 0 no-repeat;
 }
 
 .shadow-3 {
@@ -416,7 +416,7 @@ img#rocket {
 	top: 0;
 	left: 134px;
 	height: 57px;
-	background: url(../images/column-shadow-middle.png) 0 0 repeat-x;
+	background: url(../pix/standard/column-shadow-middle.png) 0 0 repeat-x;
 
 }
 
@@ -491,7 +491,7 @@ div#bottom {
 	font-weight: normal;
 	margin: 5px 0 10px 0;
 	padding: 4px;
-	font-family: Century Gothic, Arial, sans-serif;
+	font-family: Share, Share-Regular, Century Gothic, Arial, sans-serif;
 	background: #191919;
 }
 
@@ -531,7 +531,7 @@ div#bottom {
 	font-size: 125%;
 	font-weight: normal;
 	margin: 0px 0 10px 0;
-	font-family: Century Gothic, Arial, sans-serif;
+	font-family: Share, Share-Regular, Century Gothic, Arial, sans-serif;
 }
 
 .spacer div.moduletable,
@@ -567,7 +567,7 @@ div#bottom {
 }
 
 #mod-search input {
-	background: url(../images/header-bg.png);
+	background: url(../pix/standard/header-bg.png);
 	border: 1px solid #444;
 	padding: 1px 4px;
 	overflow: hidden;
@@ -581,12 +581,12 @@ div#bottom {
 
 #horiz-menu {
 	height: 39px;
-	background: url(../images/menu-bg.png) 0 0 repeat-x;
+	background: url(../pix/standard/menu-bg.png) 0 0 repeat-x;
 }
 
 #trans-menu {
 	height: 45px;
-	background: url(../images/header-menu.png) 0 0 repeat-x;
+	background: url(../pix/standard/header-menu.png) 0 0 repeat-x;
 }
 
 #horiz-menu ul.menu {
@@ -625,7 +625,7 @@ div#bottom {
 
 #horiz-menu a {
 	white-space: nowrap;
-	font-family: Century Gothic, Helvetica, sans-serif;
+	font-family: Share, Share-Regular, Century Gothic, Helvetica, sans-serif;
 	display: block;
 	float: left;
 	height: 39px;
@@ -638,7 +638,7 @@ div#bottom {
 
 #trans-menu li a {
 	white-space: nowrap;
-	font-family: Century Gothic, Helvetica, sans-serif;
+	font-family: Share, Share-Regular, Century Gothic, Helvetica, sans-serif;
 	display: block;
 	float: left;
 /*	padding: 5px 0 0 15px;   */
@@ -674,12 +674,12 @@ div#bottom {
 
 #horiz-menu li.active,
 #horiz-menu li.active_menu {
-	background: url(../images/menu-active-r.png) 100% 0 no-repeat;
+	background: url(../pix/standard/menu-active-r.png) 100% 0 no-repeat;
 }
 
 #horiz-menu li.active a,
 #horiz-menu li.active_menu a {
-	background: url(../images/menu-active-l.png) 0 0 no-repeat;
+	background: url(../pix/standard/menu-active-l.png) 0 0 no-repeat;
 	color: #fff;
 }
 
@@ -719,7 +719,7 @@ div#bottom {
 #horiz-menu li.active span span.selector,
 #horiz-menu li:hover span span.selector,
 #horiz-menu li.sfHover span span.selector {
-	background: url(../images/menu-accent.png) 0 0 no-repeat;
+	background: url(../pix/standard/menu-accent.png) 0 0 no-repeat;
 
 }
 
@@ -731,7 +731,7 @@ span.selector br {
 #horiz-menu li.active li a.daddy,
 #horiz-menu li.active li a.daddy:hover,
 #horiz-menu li li a.daddy:hover {
-	background: url(../images/dropdown-child.png) 95% 50% no-repeat;
+	background: url(../pix/standard/dropdown-child.png) 95% 50% no-repeat;
 }
 
 #horiz-menu li.active li span span.selector,
@@ -752,7 +752,7 @@ span.selector br {
 }
 
 #horiz-menu li li a {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Share, Share-Regular, Helvetica, Arial, sans-serif;
 	font-size: 100%;
 	font-weight: normal;
 }
@@ -793,7 +793,7 @@ ul.menuside a {
 	line-height: 25px;
 	text-indent: 30px;
 	height: 25px;
-	font-family: Century Gothic, Arial, sans-serif;
+	font-family: Share, Share-Regular, Century Gothic, Arial, sans-serif;
 	font-size: 110%;
 }
 
@@ -843,7 +843,7 @@ a.mainlevel {
 	line-height: 25px;
 	text-indent: 28px;
 	height: 25px;
-	font-family: Century Gothic, Arial, sans-serif;
+	font-family: Share, Share-Regular, Century Gothic, Arial, sans-serif;
 	font-size: 110%;
 	text-decoration: none;
 }
@@ -854,18 +854,18 @@ a#active_menu.sublevel {
 
 ul.menuside a,
 a.mainlevel {
-	background: #999 url(../images/bullet.png) 0 0 no-repeat;
+	background: #999 url(../pix/standard/bullet.png) 0 0 no-repeat;
 	color: #ddd;
 }
 
 ul.menuside ul a {
-	background: #999 url(../images/triangle.png) 0 5px;
+	background: #999 url(../pix/standard/triangle.png) 0 5px;
 }
 
 a.sublevel {
 	padding-left:  15px;
 	text-decoration: none;
-	font-family: Century Gothic, Arial, sans-serif;
+	font-family: Share, Share-Regular, Century Gothic, Arial, sans-serif;
 	color: #ddd;
 	background: none;
 }
@@ -909,7 +909,7 @@ div.loginelement .inputbox {
 	margin: 0;
 	width: 100px;
 	border: 1px solid #444;
-	background: url(../images/header-bg.png);
+	background: url(../pix/standard/header-bg.png);
 	color: #999;
 }
 
@@ -934,7 +934,7 @@ div.loginelement .inputbox {
 /* @group Readon */
 
 a.readon {
-	font-family: Arial Narrow, Helvetica, sans-serif;
+	font-family: Share, Share-Regular, Arial Narrow, Helvetica, sans-serif;
 	font-weight: bold;
 	font-style: italic;
 	display: block;
@@ -943,7 +943,7 @@ a.readon {
 	text-indent: 15px;
     line-height: 8px;
     color: #ddd;
-    background: url(../images/readon.png) 0 0 no-repeat;
+    background: url(../pix/standard/readon.png) 0 0 no-repeat;
 }
 
 div.moduletable-hilite1 a.readon,
@@ -952,7 +952,7 @@ div.moduletable-hilite3 a.readon,
 div.module-hilite1 a.readon,
 div.module-hilite2 a.readon,
 div.module-hilite3 a.readon {
-	background-image: url(../images/readon-hilite1.png);
+	background-image: url(../pix/standard/readon-hilite1.png);
 	background-repeat: no-repeat;
 	background-position: 0% 0%;
 }
@@ -983,7 +983,7 @@ span.pathway img {
 	height: 10px;
 	padding-right: 5px;
 	padding-top: 3px;
-	background: url(../images/path-arrow.png) 0 50% no-repeat;
+	background: url(../pix/standard/path-arrow.png) 0 50% no-repeat;
 }
 
 span.pathway a {
@@ -996,51 +996,51 @@ span.pathway a {
 /* @group Typography */
 
 ul.arrow-1 li, ul.arrow-2 li, ul.arrow-3 li, ul.arrow-4 li {
-	background: url(../images/arrow-main.png) 0 0 no-repeat;
+	background: url(../pix/standard/arrow-main.png) 0 0 no-repeat;
 }
 
 .moduletable-hilite1 ul.arrow-1 li, .moduletable-hilite2 ul.arrow-1 li, .moduletable-hilite3 ul.arrow-1 li, .module-hilite1 ul.arrow-1 li, .module-hilite2 ul.arrow-1 li, .module-hilite3 ul.arrow-1 li, .moduletable-hilite1 ul.arrow-2 li, .moduletable-hilite2 ul.arrow-2 li, .moduletable-hilite3 ul.arrow-2 li, .module-hilite1 ul.arrow-2 li, .module-hilite2 ul.arrow-2 li, .module-hilite3 ul.arrow-2 li, .moduletable-hilite1 ul.arrow-3 li, .moduletable-hilite2 ul.arrow-3 li, .moduletable-hilite3 ul.arrow-3 li, .module-hilite1 ul.arrow-3 li, .module-hilite2 ul.arrow-3 li, .module-hilite3 ul.arrow-3 li, .moduletable-hilite1 ul.arrow-4 li, .moduletable-hilite2 ul.arrow-4 li, .moduletable-hilite3 ul.arrow-4 li, .module-hilite1 ul.arrow-4 li, .module-hilite2 ul.arrow-4 li, .module-hilite3 ul.arrow-4 li {
-	background-image: url(../images/arrow-hilite1.png);
+	background-image: url(../pix/standard/arrow-hilite1.png);
 	background-position: 0% 0%;
 	background-repeat: no-repeat;
 }
 
 ul.triangle-1 li, ul.triangle-2 li, ul.triangle-3 li, ul.triangle-4 li {
-	background: url(../images/triangle.png) 0 0 no-repeat;
+	background: url(../pix/standard/triangle.png) 0 0 no-repeat;
 }
 
 .moduletable-hilite1 ul.triangle-1 li, .moduletable-hilite2 ul.triangle-1 li, .moduletable-hilite3 ul.triangle-1 li, .module-hilite1 ul.triangle-1 li, .module-hilite2 ul.triangle-1 li, .module-hilite3 ul.triangle-1 li, .moduletable-hilite1 ul.triangle-2 li, .moduletable-hilite2 ul.triangle-2 li, .moduletable-hilite3 ul.triangle-2 li, .module-hilite1 ul.triangle-2 li, .module-hilite2 ul.triangle-2 li, .module-hilite3 ul.triangle-2 li, .moduletable-hilite1 ul.triangle-3 li, .moduletable-hilite2 ul.triangle-3 li, .moduletable-hilite3 ul.triangle-3 li, .module-hilite1 ul.triangle-3 li, .module-hilite2 ul.triangle-3 li, .module-hilite3 ul.triangle-3 li, .moduletable-hilite1 ul.triangle-4 li, .moduletable-hilite2 ul.triangle-4 li, .moduletable-hilite3 ul.triangle-4 li, .module-hilite1 ul.triangle-4 li, .module-hilite2 ul.triangle-4 li, .module-hilite3 ul.triangle-4 li {
-	background-image: url(../images/triangle-hilite1.png);
+	background-image: url(../pix/standard/triangle-hilite1.png);
 	background-position: 0% 0%;
 	background-repeat: no-repeat;
 }
 
 ul.bullet-1 li, ul.bullet-2 li, ul.bullet-3 li, ul.bullet-4 li {
-	background: url(../images/bullet.png) 0 0 no-repeat;
+	background: url(../pix/standard/bullet.png) 0 0 no-repeat;
 }
 
 .moduletable-hilite1 ul.bullet-1 li, .moduletable-hilite2 ul.bullet-1 li, .moduletable-hilite3 ul.bullet-1 li, .module-hilite1 ul.bullet-1 li, .module-hilite2 ul.bullet-1 li, .module-hilite3 ul.bullet-1 li, .moduletable-hilite1 ul.bullet-2 li, .moduletable-hilite2 ul.bullet-2 li, .moduletable-hilite3 ul.bullet-2 li, .module-hilite1 ul.bullet-2 li, .module-hilite2 ul.bullet-2 li, .module-hilite3 ul.bullet-2 li, .moduletable-hilite1 ul.bullet-3 li, .moduletable-hilite2 ul.bullet-3 li, .moduletable-hilite3 ul.bullet-3 li, .module-hilite1 ul.bullet-3 li, .module-hilite2 ul.bullet-3 li, .module-hilite3 ul.bullet-3 li, .moduletable-hilite1 ul.bullet-4 li, .moduletable-hilite2 ul.bullet-4 li, .moduletable-hilite3 ul.bullet-4 li, .module-hilite1 ul.bullet-4 li, .module-hilite2 ul.bullet-4 li, .module-hilite3 ul.bullet-4 li {
-	background-image: url(../images/bullet-hilite1.png);
+	background-image: url(../pix/standard/bullet-hilite1.png);
 	background-position: 0% 0%;
 	background-repeat: no-repeat;
 }
 
 ul.bullet-5 li, ul.bullet-6 li, ul.bullet-7 li, ul.bullet-8 li {
-	background: url(../images/bullet-small.png) 0 0 no-repeat;
+	background: url(../pix/standard/bullet-small.png) 0 0 no-repeat;
 }
 
 .moduletable-hilite1 ul.bullet-5 li, .moduletable-hilite2 ul.bullet-5 li, .moduletable-hilite3 ul.bullet-5 li, .module-hilite1 ul.bullet-5 li, .module-hilite2 ul.bullet-5 li, .module-hilite3 ul.bullet-5 li, .moduletable-hilite1 ul.bullet-6 li, .moduletable-hilite2 ul.bullet-6 li, .moduletable-hilite3 ul.bullet-6 li, .module-hilite1 ul.bullet-6 li, .module-hilite2 ul.bullet-6 li, .module-hilite3 ul.bullet-6 li, .moduletable-hilite1 ul.bullet-7 li, .moduletable-hilite2 ul.bullet-7 li, .moduletable-hilite3 ul.bullet-7 li, .module-hilite1 ul.bullet-7 li, .module-hilite2 ul.bullet-7 li, .module-hilite3 ul.bullet-7 li, .moduletable-hilite1 ul.bullet-8 li, .moduletable-hilite2 ul.bullet-8 li, .moduletable-hilite3 ul.bullet-8 li, .module-hilite1 ul.bullet-8 li, .module-hilite2 ul.bullet-8 li, .module-hilite3 ul.bullet-8 li {
-	background-image: url(../images/bullet-small-hilite1.png);
+	background-image: url(../pix/standard/bullet-small-hilite1.png);
 	background-position: 0% 0%;
 	background-repeat: no-repeat;
 }
 
 ul.plus-1 li, ul.plus-2 li, ul.plus-3 li, ul.plus-4 li {
-	background: url(../images/plus.png) 0 0 no-repeat;
+	background: url(../pix/standard/plus.png) 0 0 no-repeat;
 }
 
 .moduletable-hilite1 ul.plus-1 li, .moduletable-hilite2 ul.plus-1 li, .moduletable-hilite3 ul.plus-1 li, .module-hilite1 ul.plus-1 li, .module-hilite2 ul.plus-1 li, .module-hilite3 ul.plus-1 li, .moduletable-hilite1 ul.plus-2 li, .moduletable-hilite2 ul.plus-2 li, .moduletable-hilite3 ul.plus-2 li, .module-hilite1 ul.plus-2 li, .module-hilite2 ul.plus-2 li, .module-hilite3 ul.plus-2 li, .moduletable-hilite1 ul.plus-3 li, .moduletable-hilite2 ul.plus-3 li, .moduletable-hilite3 ul.plus-3 li, .module-hilite1 ul.plus-3 li, .module-hilite2 ul.plus-3 li, .module-hilite3 ul.plus-3 li, .moduletable-hilite1 ul.plus-4 li, .moduletable-hilite2 ul.plus-4 li, .moduletable-hilite3 ul.plus-4 li, .module-hilite1 ul.plus-4 li, .module-hilite2 ul.plus-4 li, .module-hilite3 ul.plus-4 li {
-	background-image: url(../images/plus-hilite1.png);
+	background-image: url(../pix/standard/plus-hilite1.png);
 	background-position: 0% 0%;
 	background-repeat: no-repeat;
 }
@@ -1116,7 +1116,7 @@ pre {
 blockquote {
 	color: #ddd;
 	font-style: italic;
-	background: #0C0C0C url('../../images/quote.png') no-repeat 10px 10px;
+	background: #0C0C0C url('../pix/standard/quote.png') no-repeat 10px 10px;
 	font-size: 100%;
 	line-height: 150%;
 	width: auto;
@@ -1134,28 +1134,28 @@ span.alert {
 	color: #EC1F20;
 	border-top: 3px solid #730D0D;
 	border-bottom: 3px solid #730D0D;
-	background: #381212 url(../images/status-alert.png) 10px 50% no-repeat;
+	background: #381212 url(../pix/standard/status-alert.png) 10px 50% no-repeat;
 }
 
 span.info {
 	color: #0984EB;
 	border-top: 3px solid #0E3A72;
 	border-bottom: 3px solid #0E3A72;
-	background: #132031 url(../images/status-info.png) 10px 50% no-repeat;
+	background: #132031 url(../pix/standard/status-info.png) 10px 50% no-repeat;
 }
 
 span.note {
 	color: #DCB221;
 	border-top: 3px solid #735E0D;
 	border-bottom: 3px solid #735E0D;
-	background: #383012 url(../images/status-note.png) 10px 50% no-repeat;
+	background: #383012 url(../pix/standard/status-note.png) 10px 50% no-repeat;
 }
 
 span.download {
 	color: #82C82B;
 	border-top: 3px solid #455C18;
 	border-bottom: 3px solid #455C18;
-	background: #273016 url(../images/status-download.png) 10px 50% no-repeat;
+	background: #273016 url(../pix/standard/status-download.png) 10px 50% no-repeat;
 }
 
 /* @end */
@@ -1181,7 +1181,7 @@ span.note {
 }
 
 #rokslide-wrapper {
-	background: #121212 url(../images/bottom-bg.png) 0 0 repeat-x;
+	background: #121212 url(../pix/standard/bottom-bg.png) 0 0 repeat-x;
 }
 
 #rokslide-toolbar li.active {
@@ -1189,21 +1189,21 @@ span.note {
 }
 
 #rokslide-toolbar li.current {
-	background: url(../images/tab-active-r.png) 100% 0 no-repeat;
+	background: url(../pix/standard/tab-active-r.png) 100% 0 no-repeat;
 	color: #ddd;
 }
 
 #rokslide-toolbar li.current span {
-	background: url(../images/tab-active-l.png) 0 0 no-repeat;
+	background: url(../pix/standard/tab-active-l.png) 0 0 no-repeat;
 }
 
 #rokslide-toolbar li {
-	background: url(../images/tab-r.png) 100% 0 no-repeat;
+	background: url(../pix/standard/tab-r.png) 100% 0 no-repeat;
 	color: #999;
 }
 
 #rokslide-toolbar li span {
-	background: url(../images/tab-l.png) 0 0 no-repeat;
+	background: url(../pix/standard/tab-l.png) 0 0 no-repeat;
 }
 
 div#frame {
@@ -1211,11 +1211,11 @@ div#frame {
 }
 
 div#frame div.button#left {
-	background: url(../images/tabs-prev.png) 0 0 no-repeat;
+	background: url(../pix/standard/tabs-prev.png) 0 0 no-repeat;
 }
 
 div#frame div.button#right {
-	background: url(../images/tabs-next.png) 0 0 no-repeat;
+	background: url(../pix/standard/tabs-next.png) 0 0 no-repeat;
 }
 
 #frame div.module {
@@ -1325,66 +1325,66 @@ img.content-right {
 .entry-meta a, .page-meta a, .comment-meta a { color: #EEE; }
 
 .chronodata {
-	background: url('../../images/time.png') left center no-repeat;
+	background: url('../pix/standard/time.png') left center no-repeat;
 	padding: 2px 0px 2px 20px ;
 }
 
 .authordata {
-	background: url('../../images/author.png') left center no-repeat;
+	background: url('../pix/standard/author.png') left center no-repeat;
 	padding: 2px 0px 2px 20px ;
 }
 
 .commentslink, .commentslink a {
-	background: url('../../images/comment.png') left center no-repeat;
+	background: url('../pix/standard/comment.png') left center no-repeat;
 	margin: 0px 5px;
 	padding: 2px 0px 2px 20px;
 	color: #bbb !important;
 }
 
 .quoter_comment {
-	background: url('../../images/comment.png') left center no-repeat;
+	background: url('../pix/standard/comment.png') left center no-repeat;
 	margin-left: 5px;
 	padding: 2px 0px 2px 20px;
 }
 
 .entry-tags {
-	background: url('../../images/tag_blue.png') left center no-repeat;
+	background: url('../pix/standard/tag_blue.png') left center no-repeat;
 	padding: 2px 0px 2px 20px;
 }
 
 .word-count {
-	background: url('../../images/newspaper.png') left center no-repeat;
+	background: url('../pix/standard/newspaper.png') left center no-repeat;
 	margin-right: 1em;
 	padding: 2px 0px 2px 20px;
 }
 
 .page-views {
-	background: url('../../images/chart_bar.png') left center no-repeat;
+	background: url('../pix/standard/chart_bar.png') left center no-repeat;
 	margin-right: 1em;
 	padding: 2px 0px 2px 20px;
 }
 
 .editLink {
-	background: url('../../images/pencil.png') left center no-repeat;
+	background: url('../pix/standard/pencil.png') left center no-repeat;
 	display: inline;
 	margin: 5px 5px 0 0;
 	padding: 10px 0px 2px 20px ;
 }
 
 .entry-edit {
-	background: url('../../images/pencil.png') left center no-repeat;
+	background: url('../pix/standard/pencil.png') left center no-repeat;
 	padding: 2px 0px 2px 20px ;
 }
 
 .categories-label {
-	background: url('../../images/folder.png') left center no-repeat;
+	background: url('../pix/standard/folder.png') left center no-repeat;
 	display: inline;
 	margin-right: 1em;
 	padding: 2px 0px 2px 20px;
 }
 
 .chronodata {
-	background: url('../../images/time.png') left center no-repeat;
+	background: url('../pix/standard/time.png') left center no-repeat;
 	padding: 2px 0px 2px 20px ;
 }
 
@@ -1412,7 +1412,7 @@ input[type=text], textarea {
 }
 
 #searchreset {
-	background: url('../../images/reset-fff.png') center center no-repeat;
+	background: url('../pix/standard/reset-fff.png') center center no-repeat;
 	height: 20px;
 	position: absolute;
 	right: 5px;
@@ -1421,7 +1421,7 @@ input[type=text], textarea {
 }
 
 #searchload {
-	background: url('../../images/spinner.gif') center center no-repeat;
+	background: url('../pix/standard/spinner.gif') center center no-repeat;
 	height: 18px;
 	position: absolute;
 	right: 6px;
@@ -1445,7 +1445,7 @@ input[type=text], textarea {
 }
 
 #searchform input[type=text] {
-	background-image: url('../../images/safari_search.png');
+	background-image: url('../pix/standard/safari_search.png');
 	background-position: 3px center;
 	background-repeat: no-repeat;
 	border-radius: 20px;
@@ -1485,21 +1485,21 @@ input[type=text], textarea {
 /* @end  searchform*/
 
 .commentsrsslink {
-	background: url('../../images/feedicon16px.png') left top no-repeat;
+	background: url('../pix/standard/feedicon16px.png') left top no-repeat;
 	height: 16px;
 	margin-right: 10px;
 	padding: 2px 0px 2px 20px;
 }
 
 .trackbacklink {
-	background: url('../../images/arrow_refresh.png') left top no-repeat;
+	background: url('../pix/standard/arrow_refresh.png') left top no-repeat;
 	height: 16px;
 	margin-right: 10px;
 	padding: 2px 0px 2px 20px;
 }
 
 .technoratireaction {
-	background: url('../../images/bookmark16px.png') left top no-repeat;
+	background: url('../pix/standard/bookmark16px.png') left top no-repeat;
 	color: #999;
 	height: 16px;
 	padding: 2px 0px 2px 20px;
