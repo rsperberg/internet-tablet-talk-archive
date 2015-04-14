@@ -13,13 +13,13 @@
 /* header */
 
 #bg-top {
-	background: #000 url(../images/backgrounds/texture-3.jpg) 50% 0 no-repeat;
+	background: #000 url(../pix/standard/texture-3.jpg) 50% 0 no-repeat;
 }
 
 /* footer */
 
 #bg-bottom, #bg-bottom-ie {
-	background: url(../images/backgrounds/texture-3.jpg) 50% 100% no-repeat;
+	background: url(../pix/standard/texture-3.jpg) 50% 100% no-repeat;
 }
 /* roger mod */
 
