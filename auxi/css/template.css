@@ -1334,7 +1334,7 @@ img.content-right {
 	padding: 2px 0px 2px 20px ;
 }
 
-.commentslink, .commentslink a {
+.commentslink a {
 	background: url('../pix/standard/comment.png') left center no-repeat;
 	margin: 0px 5px;
 	padding: 2px 0px 2px 20px;
