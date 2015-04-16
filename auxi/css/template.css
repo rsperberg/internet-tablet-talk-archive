@@ -8,7 +8,7 @@
 	color: #bbb !important;
 }
 
-p strong em, strong em, strong i, b em, b i, i b, i strong, em b, em strong {
+p strong em, strong em, strong i, b em, b i, i b, i strong, em b, em strong, blockquote strong em {
 	font-family: Share-BoldItalic, Share, Share-Regular;
 	font-weight: 700;
 	font-style: italic;
